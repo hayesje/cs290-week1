@@ -1,0 +1,4 @@
+The is the first file created in repository cs290-week1.
+
+Some text that will need future edits to crrect spelling erors!
+All lines above this line (including this line) were included in the initial version.
