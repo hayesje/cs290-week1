@@ -1,4 +1,7 @@
 The is the first file created in repository cs290-week1.
 
-Some text that will need future edits to crrect spelling erors!
+Some text that will need future edits to correct spelling errors!  SPELLING ERRORS CORRECTED!!!  
 All lines above this line (including this line) were included in the initial version.
+
+Some new lines to include in the file.
+These changes and lines were added in branch "Version-1.1.
